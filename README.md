@@ -5,7 +5,9 @@ Collect and present data for customers via the search page, which they will then
  
 ## Resources
 Software: Python, Jupyter Notebook
+
 Modules: CitiPy, Pandas, Matplotlib
+
 APIs: OpenWeatherMap, Google Places API
 
 ## Summary
