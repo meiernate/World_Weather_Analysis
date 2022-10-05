@@ -23,8 +23,4 @@ Examples of vacation mapping:
 ![WeatherPy_travel_map](Vacation_Itinerary/WeatherPy_travel_map.png)
 
 #### Hotel Map
-<<<<<<< HEAD
 ![WeatherPy_travel_map_markers](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
-=======
-![WeatherPy_travel_map_markers](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
->>>>>>> 316d44aca451d92c9c69e5d7303046a0a9d92b03
